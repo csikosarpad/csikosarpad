@@ -18,24 +18,16 @@ Currently I work on UI development for transportation and mobility systems.
 ## 🛠 Tech Stack
 
 **Frontend:** React, TypeScript, JavaScript, Vite, TailwindCSS  
-**Backend / Tools:** Node.js, Express, pnpm, yarn, Nx / Turborepo  
+**Backend / Tools:** Node.js, Express, pnpm, yarn
 **Other:** Raspberry Pi, OpenMediaVault, Linux, MakeCode, Micro:bit  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 samples  
-_Public JavaScript examples_  
-[View repository](https://github.com/csikosarpad)
-
 ### 🔹 examples  
 _Simple HTML/CSS/JS examples_  
 [View repository](https://github.com/csikosarpad/examples) [2](https://github.com/csikosarpad/examples/tree/main)
-
-### 🔹 makecode  
-_Micro:bit MakeCode extension project_  
-[View project](https://csikosarpad.github.io/makecode/) ub.com/csikosarpad/makecode)
 
 ### 🔹 mono‑game  
 _A minimal MIT-licensed game experiment_  
@@ -54,7 +46,7 @@ _A minimal MIT-licensed game experiment_
 
 - **GitHub Pages:** _(soon to be improved)_  
 - **Website:** http://delawer.hu  [1](https://github.com/csikosarpad)
-- **LinkedIn:** in/csikosarpad  [1](https://www.linkedin.com/in/csikosarpad)
+- **LinkedIn:** in/csikosarpad(https://www.linkedin.com/in/csikosarpad)
 
 ---
 
