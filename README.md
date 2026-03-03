@@ -54,7 +54,7 @@ _A minimal MIT-licensed game experiment_
 
 - **GitHub Pages:** _(soon to be improved)_  
 - **Website:** http://delawer.hu  [1](https://github.com/csikosarpad)
-- **LinkedIn:** in/csikosarpad  [1]([https://github.com/csikosarpad](https://www.linkedin.com/in/csikosarpad))
+- **LinkedIn:** in/csikosarpad  [1](https://www.linkedin.com/in/csikosarpad)
 
 ---
 
