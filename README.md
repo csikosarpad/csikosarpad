@@ -25,8 +25,8 @@ Currently I work on UI development for transportation and mobility systems.
 
 ## 📌 Featured Projects
 
-### 🔹 examples  
-Front-end JS Hacker game_  
+### 🔹 JS 'Hacker' game  
+_Front-end JS Hacker game_  
 [View repository](https://github.com/csikosarpad/js-hackergame) [2](https://github.com/csikosarpad/js-hackergame/tree/main)
 
 Try it: [https://delawer.hu/js-hackergame/](https://delawer.hu/js-hackergame/)
