@@ -29,6 +29,8 @@ Currently I work on UI development for transportation and mobility systems.
 _Front-end Atomic Bomberman style gameplay - with copilot assistance_
 [View repository](https://github.com/csikosarpad/atomic-bomberman) [2](https://github.com/csikosarpad/atomic-bomberman)
 
+Try it: [https://delawer.hu/atomic-bomberman/](https://delawer.hu/atomic-bomberman/)
+
 ### 🔹 JS 'Hacker' game  
 _Front-end JS Hacker game_  
 [View repository](https://github.com/csikosarpad/js-hackergame) [2](https://github.com/csikosarpad/js-hackergame/tree/main)
