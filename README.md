@@ -25,7 +25,7 @@ Currently I work on UI development for transportation and mobility systems.
 
 ## 📌 Featured Projects
 
-### 🔹 JS 'Hacker' game  
+### 🔹 JS 'Atomic Bomberman' game  
 _Front-end Atomic Bomberman style gameplay - with copilot assistance_
 [View repository](https://github.com/csikosarpad/atomic-bomberman) [2](https://github.com/csikosarpad/atomic-bomberman)
 
