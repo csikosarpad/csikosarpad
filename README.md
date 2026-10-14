@@ -26,6 +26,14 @@ Currently I work on UI development for transportation and mobility systems.
 ## 📌 Featured Projects
 
 ### 🔹 JS 'Atomic Bomberman' game  
+_Front-end Scorched Earth / Worms / Gunbound styled game - with copilot assistance_
+[View repository](https://github.com/csikosarpad/ballistic-front) [2](https://github.com/csikosarpad/ballistic-front)
+
+Try it: [https://delawer.hu/atomic-bomberman](https://delawer.hu/ballistic-front/)
+
+
+
+### 🔹 JS 'Atomic Bomberman' game  
 _Front-end Atomic Bomberman style gameplay - with copilot assistance_
 [View repository](https://github.com/csikosarpad/atomic-bomberman) [2](https://github.com/csikosarpad/atomic-bomberman)
 
