@@ -27,9 +27,9 @@ Currently I work on UI development for transportation and mobility systems.
 
 ### 🔹 JS 'Atomic Bomberman' game  
 _Front-end Scorched Earth / Worms / Gunbound styled game - with copilot assistance_
-[View repository](https://github.com/csikosarpad/ballistic-front) [2](https://github.com/csikosarpad/ballistic-front)
+[View repository](https://github.com/csikosarpad/solvyr-prime) [2](https://github.com/csikosarpad/solvyr-prime)
 
-Try it: [https://delawer.hu/ballistic-front](https://delawer.hu/ballistic-front/)
+Try it: [https://delawer.hu/solvyr-prime/](https://delawer.hu/solvyr-prime/)
 
 
 
