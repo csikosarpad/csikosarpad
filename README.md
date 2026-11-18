@@ -25,7 +25,7 @@ Currently I work on UI development for transportation and mobility systems.
 
 ## 📌 Featured Projects
 
-### 🔹 JS 'Atomic Bomberman' game  
+### 🔹 JS 'Solvyr Prime - Siege Protocol' game  
 _Front-end Scorched Earth / Worms / Gunbound styled game - with copilot assistance_
 [View repository](https://github.com/csikosarpad/solvyr-prime) [2](https://github.com/csikosarpad/solvyr-prime)
 
